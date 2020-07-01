@@ -1,4 +1,4 @@
 Poker game made by Python with local storage 
-![Screenshot](https://shivika24.github.io/imagesforreadme/p1.PNG)
-![Screenshot](https://shivika24.github.io/imagesforreadme/p2.PNG)
-![Screenshot](https://shivika24.github.io/imagesforreadme/p3.PNG)
+![Screenshot](https://github.com/shivika24/imagesforreadme/blob/master/p1.png)
+![Screenshot](https://github.com/shivika24/imagesforreadme/blob/master/p2.png)
+![Screenshot](https://github.com/shivika24/imagesforreadme/blob/master/p3.png)
